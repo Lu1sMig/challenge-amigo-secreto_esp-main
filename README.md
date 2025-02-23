@@ -7,6 +7,15 @@
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
 
+El challenge Amigo Secreto, es un proyecto de las clases de ONE, dirigido a experimentar las habilitadas de logica de programación de los participantes.
+El proyecto consiste en realizar una aplicación web que permita realziar un pequeño sorteo para determianr los amigos secretos.
+1) Se digitan los nombre de amigos en el cuadro de texto.
+2) A cada nombre registrado se presionar el botón agregar, para se guadado y visualizarse en una lista a bajo.
+3) El boton sortear, da como resultado un nombre de la lista ingresada.
+4) No se puede agregar nombre identicos.
+5) No se puede agregar nombre en blanco.
+6) El botón  recargar pagina, recarca la pagina del servidor.
+
 *[Estado del proyecto](#Estado-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
