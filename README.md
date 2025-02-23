@@ -3,8 +3,6 @@
 # challenge-amigo-secreto
 ![{F6894BBE-56DA-4FF1-8327-FEC1581760A4}](https://github.com/user-attachments/assets/61a85085-3f5c-4092-a088-756b45d236c1)
 
-*[Insignias](#insignias)
-*[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 El challenge Amigo Secreto, es un proyecto de las clases de ONE, dirigido a experimentar las habilitadas de logica de programación de los participantes.
@@ -79,3 +77,6 @@ Cómo escribir un README increíble en tu Github | Alura Cursos Online
 > Advises about risks or negative outcomes of certain actions.
 
 
+*[Insignias](#insignias)
+
+*[Índice](#índice)
