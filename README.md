@@ -55,3 +55,5 @@ Cómo escribir un README increíble en tu Github | Alura Cursos Online
 <link>https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github</link>aa
 
 # Título-e-imagen-de-portada
+![{F6894BBE-56DA-4FF1-8327-FEC1581760A4}](https://github.com/user-attachments/assets/61a85085-3f5c-4092-a088-756b45d236c1)
+
