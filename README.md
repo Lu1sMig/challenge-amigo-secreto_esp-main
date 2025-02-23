@@ -1,10 +1,10 @@
+*[challenge-amigo-secreto](#challenge-amigo-secreto)
+
 # challenge-amigo-secreto
-
-##Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+![{F6894BBE-56DA-4FF1-8327-FEC1581760A4}](https://github.com/user-attachments/assets/61a85085-3f5c-4092-a088-756b45d236c1)
 
 *[Insignias](#insignias)
+
 
 *[Índice](#índice)
 
@@ -54,6 +54,22 @@ Aquí hay un artículo con los pasos para crear un README asombroso:
 Cómo escribir un README increíble en tu Github | Alura Cursos Online
 <link>https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github</link>aa
 
-# Título-e-imagen-de-portada
-![{F6894BBE-56DA-4FF1-8327-FEC1581760A4}](https://github.com/user-attachments/assets/61a85085-3f5c-4092-a088-756b45d236c1)
+
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 
