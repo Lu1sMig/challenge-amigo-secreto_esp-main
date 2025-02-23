@@ -1,3 +1,6 @@
+//ultima edicion 23/02/2024
+//motivo: Poner en practica clases
+
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. 
 // Aquí deberás desarrollar la lógica para resolver el problema.
 
