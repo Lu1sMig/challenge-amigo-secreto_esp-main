@@ -18,8 +18,11 @@ El proyecto consiste en realizar una aplicación web que permita realziar un peq
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-
 ![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601)
+
+<img src ="https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601" width="200" height="400"/>
+
+![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601 | width = 250)
 
 ![image](https://github.com/user-attachments/assets/d8e70719-a7cd-4e4a-84c5-6e3320096c06)
 
