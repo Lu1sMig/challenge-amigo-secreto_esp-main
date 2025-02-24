@@ -18,14 +18,10 @@ El proyecto consiste en realizar una aplicación web que permita realziar un peq
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601)
-
+a) Ingresando nombre para el sorteo.
 <img src ="https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601" width="400" height="400"/>
 
-![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601 =250x250)
-
-![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601 | width = 250)
-
+b) Ingresando nombre para el sorteo.
 ![image](https://github.com/user-attachments/assets/d8e70719-a7cd-4e4a-84c5-6e3320096c06)
 
 *[Acceso al proyecto](#acceso-proyecto)
