@@ -20,7 +20,9 @@ El proyecto consiste en realizar una aplicación web que permita realziar un peq
 
 ![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601)
 
-<img src ="https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601" width="200" height="400"/>
+<img src ="https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601" width="400" height="400"/>
+
+![](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601 =250x250)
 
 ![image](https://github.com/user-attachments/assets/609637e5-5982-48b0-b042-7dfec4267601 | width = 250)
 
